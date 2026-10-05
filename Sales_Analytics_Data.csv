@@ -1,0 +1,26 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Customer_Segment,Product_ID,Product_Name,Category,Sub_Category,Unit_Cost,Unit_Price,Quantity,Discount,Sales_Amount,Profit,Region,State,City,Sales_Channel
+ORD-1001,2024-01-15,CUST-201,Acme Corp,Corporate,PROD-501,Ergonomic Chair,Furniture,Chairs,150.00,250.00,2,0.10,450.00,150.00,North,Illinois,Chicago,Direct
+ORD-1002,2024-02-03,CUST-202,Jane Doe,Consumer,PROD-502,UltraHD Monitor,Technology,Monitors,500.00,850.00,1,0.00,850.00,350.00,East,New York,New York City,Online
+ORD-1003,2024-02-18,CUST-203,TechStart LLC,Small Business,PROD-503,Wireless Mouse,Technology,Accessories,12.00,25.00,5,0.05,118.75,58.75,West,California,Los Angeles,Direct
+ORD-1004,2024-03-10,CUST-204,Robert Smith,Home Office,PROD-504,Standing Desk,Furniture,Tables,300.00,550.00,1,0.10,495.00,195.00,South,Texas,Houston,Online
+ORD-1005,2024-03-22,CUST-205,Global Logistics,Corporate,PROD-505,Laser Printer,Technology,Printers,180.00,320.00,3,0.15,816.00,276.00,Central,Texas,Dallas,Direct
+ORD-1006,2024-04-05,CUST-201,Acme Corp,Corporate,PROD-503,Wireless Mouse,Technology,Accessories,12.00,25.00,10,0.10,225.00,105.00,North,Illinois,Chicago,Direct
+ORD-1007,2024-04-19,CUST-206,Emily Davis,Consumer,PROD-506,Desk Lamp,Office Supplies,Lighting,20.00,40.00,2,0.00,80.00,40.00,East,Pennsylvania,Philadelphia,Online
+ORD-1008,2024-05-12,CUST-207,Apex Solutions,Small Business,PROD-501,Ergonomic Chair,Furniture,Chairs,150.00,250.00,4,0.05,950.00,350.00,West,Washington,Seattle,Online
+ORD-1009,2024-06-01,CUST-208,Michael Brown,Home Office,PROD-502,UltraHD Monitor,Technology,Monitors,500.00,850.00,2,0.10,1530.00,530.00,South,Florida,Miami,Direct
+ORD-1010,2024-06-25,CUST-209,Nexus Media,Corporate,PROD-507,Paper Shredder,Office Supplies,Equipment,45.00,80.00,5,0.20,320.00,95.00,Central,Ohio,Columbus,Online
+ORD-1011,2025-01-14,CUST-202,Jane Doe,Consumer,PROD-503,Wireless Mouse,Technology,Accessories,12.00,25.00,2,0.00,50.00,26.00,East,New York,New York City,Online
+ORD-1012,2025-02-08,CUST-210,David Wilson,Home Office,PROD-504,Standing Desk,Furniture,Tables,300.00,550.00,2,0.15,935.00,335.00,West,California,San Francisco,Direct
+ORD-1013,2025-03-17,CUST-203,TechStart LLC,Small Business,PROD-505,Laser Printer,Technology,Printers,180.00,320.00,2,0.05,608.00,248.00,West,California,Los Angeles,Online
+ORD-1014,2025-04-02,CUST-205,Global Logistics,Corporate,PROD-501,Ergonomic Chair,Furniture,Chairs,150.00,250.00,8,0.10,1800.00,600.00,Central,Texas,Dallas,Direct
+ORD-1015,2025-05-20,CUST-211,Sarah Miller,Consumer,PROD-508,File Cabinet,Furniture,Storage,90.00,160.00,1,0.00,160.00,70.00,North,Michigan,Detroit,Online
+ORD-1016,2025-06-11,CUST-204,Robert Smith,Home Office,PROD-502,UltraHD Monitor,Technology,Monitors,500.00,850.00,1,0.05,807.50,307.50,South,Texas,Houston,Direct
+ORD-1017,2025-07-04,CUST-212,Vertex Inc,Corporate,PROD-503,Wireless Mouse,Technology,Accessories,12.00,25.00,20,0.20,400.00,160.00,East,Massachusetts,Boston,Direct
+ORD-1018,2025-08-22,CUST-207,Apex Solutions,Small Business,PROD-504,Standing Desk,Furniture,Tables,300.00,550.00,3,0.10,1485.00,585.00,West,Washington,Seattle,Online
+ORD-1019,2025-09-15,CUST-206,Emily Davis,Consumer,PROD-506,Desk Lamp,Office Supplies,Lighting,20.00,40.00,4,0.10,144.00,64.00,East,Pennsylvania,Philadelphia,Online
+ORD-1020,2025-10-30,CUST-201,Acme Corp,Corporate,PROD-505,Laser Printer,Technology,Printers,180.00,320.00,5,0.12,1408.00,508.00,North,Illinois,Chicago,Direct
+ORD-1021,2026-01-10,CUST-209,Nexus Media,Corporate,PROD-501,Ergonomic Chair,Furniture,Chairs,150.00,250.00,6,0.10,1350.00,450.00,Central,Ohio,Columbus,Direct
+ORD-1022,2026-02-14,CUST-213,Brian Taylor,Consumer,PROD-502,UltraHD Monitor,Technology,Monitors,500.00,850.00,2,0.00,1700.00,700.00,South,Georgia,Atlanta,Online
+ORD-1023,2026-03-01,CUST-210,David Wilson,Home Office,PROD-507,Paper Shredder,Office Supplies,Equipment,45.00,80.00,3,0.05,228.00,93.00,West,California,San Francisco,Online
+ORD-1024,2026-03-28,CUST-208,Michael Brown,Home Office,PROD-508,File Cabinet,Furniture,Storage,90.00,160.00,2,0.10,288.00,108.00,South,Florida,Miami,Direct
+ORD-1025,2026-04-15,CUST-212,Vertex Inc,Corporate,PROD-504,Standing Desk,Furniture,Tables,300.00,550.00,5,0.15,2337.50,837.50,East,Massachusetts,Boston,Direct
